@@ -1,6 +1,6 @@
-## Presentations for COMM3180 Group Data Project
+## Presentations for COMM1280 Final Data Project
 
-* This folder should contain the subfolders and files for your project presentations.
+* This folder should contain the subfolders and files for your project presentation.
 
 ### Initial Presentation
 
@@ -11,7 +11,7 @@
 
 ### Final Presentation
 
-* The presentation should have 8-10 slides that cover:
+* The presentation should have 5-8 slides that cover:
   1. What is your research question and hypothesis?
   2. What data did you use, how did you acquire and clean it and what are its dimensions?
   3. What analyses did you carry out?

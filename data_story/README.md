@@ -1,4 +1,4 @@
-## Blog post an of your data story and creative output for COMM318 Group Data Project
+## Blog post an of your data story and creative output for COMM1280 Final Data Project
 
 * This folder should contain the files that contain the outputs of all your data analysis. 
 

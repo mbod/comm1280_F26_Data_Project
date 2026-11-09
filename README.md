@@ -1,4 +1,4 @@
-## Group project for COMM3180 _Stories from data_ (Spring 2026)
+## Final data project for COMM1280 _Data Science for Communication_ (Fall 2026)
 
 * Replace content in this file to act as the main index page for your project 
 
